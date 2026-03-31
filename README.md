@@ -99,6 +99,7 @@ MaterialTheme e Botão reagem instantaneamente
 ┣ 📜 ThemePreferenceManager.kt (DataStore Implementation)
 ┣ 📜 libs.versions.toml (Version Catalog)
 ┗ 📜 build.gradle.kts (Kotlin DSL)
+```
 ---
 
 ## 👨‍💻 Autor
